@@ -86,8 +86,7 @@ if start == 1:
 else:
     print("Detetive TDE não iniciado")
 
-'''Alunos: Arthur Przygocki e Gabriel Yoshikawa Koti
-
+'''
 p == Loius Jordan estava no restaurante quando o prefeito morreu
 q == Alex White não enviou as dicas
 r == Naomi é cúmplice do assassinato
